@@ -24,7 +24,7 @@ pod “TTRangeSlider”
 ```
 
 ## Usage
-
+It's a interesting tool.
 Add the TTRangeSlider like you would with any other UIControl. Either:
 * Add a view in your storyboard/class and change it’s type to `TTRangeSlider`. As long as you’re using >= XCode6 you can now use this control like any other, you can set all the properties in the Attributes Inspector and see a live preview:
 
